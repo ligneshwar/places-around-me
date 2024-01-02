@@ -166,7 +166,7 @@ the best school in vaniyambadi.
 </p>
 </body>
 </html>
-```
+``````
 ## Output:
 ![image](https://github.com/ligneshwar/places-around-me/assets/149365037/98310ae9-1777-4d03-8650-ca910aae5021)
 ![image](https://github.com/ligneshwar/places-around-me/assets/149365037/27e20939-830d-4ed2-b83b-d57a43e534ab)
